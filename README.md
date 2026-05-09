@@ -3,14 +3,14 @@
 Template **Angular 21 SSR** open-source per sito vetrina **Pet Shop** (PMI italiane).
 
 [![Demo live](https://img.shields.io/badge/demo-live-brightgreen)](https://pet-shop.demo.federicocalo.dev)
-[![Docs](https://img.shields.io/badge/docs-VitePress-blue)](https://fedcal.github.io/federico-demo-pet-shop/)
+[![Docs](https://img.shields.io/badge/docs-VitePress-blue)](https://fedcal.github.io/demo-pet-shop/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## Quick start
 
 ```bash
-git clone https://github.com/fedcal/federico-demo-pet-shop.git
-cd federico-demo-pet-shop
+git clone https://github.com/fedcal/demo-pet-shop.git
+cd demo-pet-shop
 npm install
 npm start
 ```
@@ -36,7 +36,7 @@ npm run serve:ssr:pet-shop
 
 ## Documentazione completa
 
-→ https://fedcal.github.io/federico-demo-pet-shop/
+→ https://fedcal.github.io/demo-pet-shop/
 
 ## Hub demos Federico
 
