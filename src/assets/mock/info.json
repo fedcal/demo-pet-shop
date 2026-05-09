@@ -1,0 +1,38 @@
+{
+  "ragioneSociale": "Bau & Miao S.r.l.",
+  "nomeCommerciale": "Bau & Miao Pet Store",
+  "tagline": "Negozio per animali, toelettatura, dog sitting — Brescia",
+  "indirizzo": {
+    "via": "Via Triumplina 18",
+    "citta": "Brescia",
+    "provincia": "BS",
+    "cap": "25136",
+    "regione": "Lombardia",
+    "paese": "Italia",
+    "lat": 45.5416,
+    "lng": 10.2118
+  },
+  "contatti": {
+    "telefono": "+39 030 555 8900",
+    "whatsapp": "+39 349 555 8901",
+    "email": "info@bauemiao.it",
+    "social": {
+      "instagram": "https://instagram.com/bauemiao_demo",
+      "facebook": "https://facebook.com/bauemiao_demo"
+    }
+  },
+  "orari": {
+    "lunedi": "09:00 – 19:30",
+    "martedi": "09:00 – 19:30",
+    "mercoledi": "09:00 – 19:30",
+    "giovedi": "09:00 – 19:30",
+    "venerdi": "09:00 – 19:30",
+    "sabato": "09:00 – 18:00",
+    "domenica": "10:00 – 13:00"
+  },
+  "metaSeo": {
+    "title": "Bau & Miao Pet Store — Negozio animali, toelettatura, dog sitting a Brescia",
+    "description": "Pet shop a Brescia: cibo premium per cani e gatti, accessori, toelettatura professionale, dog sitting e addestramento. Prenota il tuo servizio online.",
+    "keywords": ["pet shop brescia", "toelettatura cani brescia", "dog sitting brescia", "negozio animali brescia", "addestramento cani brescia"]
+  }
+}

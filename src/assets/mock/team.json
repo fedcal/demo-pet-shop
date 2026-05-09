@@ -1,0 +1,44 @@
+{
+  "team": [
+    {
+      "id": 1,
+      "nome": "Laura Meroni",
+      "ruolo": "Fondatrice & Responsabile",
+      "bio": "Laura ha fondato Bau & Miao nel 2012 dopo 10 anni nel settore veterinario. Appassionata di nutrizione animale e benessere, cura personalmente la selezione dei prodotti premium.",
+      "anniEsperienza": 18,
+      "specialita": ["Nutrizione animale", "Comportamento felino", "Gestione negozio"]
+    },
+    {
+      "id": 2,
+      "nome": "Marco Farina",
+      "ruolo": "Dog Trainer ENCI",
+      "bio": "Marco è istruttore cinofilo certificato ENCI con specializzazione in riabilitazione comportamentale. Ha addestrato oltre 400 cani in 12 anni di carriera.",
+      "anniEsperienza": 12,
+      "specialita": ["Addestramento base e avanzato", "Riabilitazione comportamentale", "Gestione reattività"]
+    },
+    {
+      "id": 3,
+      "nome": "Sofia Bianchi",
+      "ruolo": "Toelettatura professionale",
+      "bio": "Sofia è toelettatore con diploma ASET e 8 anni di esperienza. Specializzata in razze di taglia grande e in tecniche di grooming per pelo riccio e lungo.",
+      "anniEsperienza": 8,
+      "specialita": ["Grooming razze grandi", "Pelo riccio e lungo", "Tecniche scissor work"]
+    },
+    {
+      "id": 4,
+      "nome": "Giulio Testa",
+      "ruolo": "Dog & Cat Sitter",
+      "bio": "Giulio si occupa del dog sitting e cat sitting in struttura e a domicilio. Laureato in scienze animali, gestisce la cura quotidiana degli animali ospiti con grande attenzione.",
+      "anniEsperienza": 5,
+      "specialita": ["Dog sitting", "Cat sitting", "Visite domiciliari", "Pronto soccorso base"]
+    },
+    {
+      "id": 5,
+      "nome": "Valentina Costa",
+      "ruolo": "Assistente vendita & Consulente",
+      "bio": "Valentina gestisce le vendite e le consulenze nutrizionali con clienti nuovi. Con 6 anni di esperienza nel settore, è il primo punto di contatto per i proprietari alle prime armi.",
+      "anniEsperienza": 6,
+      "specialita": ["Consulenza nutrizionale", "Vendita assistita", "Customer care"]
+    }
+  ]
+}

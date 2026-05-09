@@ -1,0 +1,210 @@
+{
+  "categorie": [
+    { "id": "cibo-cani", "nome": "Cibo per cani", "ordine": 1 },
+    { "id": "cibo-gatti", "nome": "Cibo per gatti", "ordine": 2 },
+    { "id": "accessori", "nome": "Accessori e giochi", "ordine": 3 },
+    { "id": "antiparassitari", "nome": "Antiparassitari e salute", "ordine": 4 }
+  ],
+  "prodotti": [
+    {
+      "id": 1,
+      "categoria": "cibo-cani",
+      "nome": "Royal Canin Adult Medium 4kg",
+      "descrizione": "Crocchette bilanciate per cani di taglia media adulti. Formula con pollo e riso.",
+      "prezzo": 34.90,
+      "brand": "Royal Canin",
+      "peso": "4 kg",
+      "premium": true
+    },
+    {
+      "id": 2,
+      "categoria": "cibo-cani",
+      "nome": "Hill's Science Plan Puppy 3kg",
+      "descrizione": "Alimento completo per cuccioli fino a 12 mesi. Ricco di DHA per lo sviluppo cerebrale.",
+      "prezzo": 28.50,
+      "brand": "Hill's",
+      "peso": "3 kg",
+      "premium": true
+    },
+    {
+      "id": 3,
+      "categoria": "cibo-cani",
+      "nome": "Farmina N&D Grain Free Pollo 2kg",
+      "descrizione": "Crocchette grain free con pollo fresco e melograno. Per cani adulti di taglia piccola.",
+      "prezzo": 22.90,
+      "brand": "Farmina",
+      "peso": "2 kg",
+      "premium": true
+    },
+    {
+      "id": 4,
+      "categoria": "cibo-cani",
+      "nome": "Trainer Natural Adult Manzo 12kg",
+      "descrizione": "Alimento completo economico con manzo e cereali. Ottimo per cani di taglia grande.",
+      "prezzo": 42.00,
+      "brand": "Trainer",
+      "peso": "12 kg",
+      "premium": false
+    },
+    {
+      "id": 5,
+      "categoria": "cibo-cani",
+      "nome": "Snack Dental Sticks 7 pz",
+      "descrizione": "Bastoncini masticabili per l'igiene dentale del cane. Riduce il tartaro del 80%.",
+      "prezzo": 5.90,
+      "brand": "Pedigree",
+      "peso": "180 g",
+      "premium": false
+    },
+    {
+      "id": 6,
+      "categoria": "cibo-gatti",
+      "nome": "Royal Canin Sterilised 4kg",
+      "descrizione": "Crocchette specifiche per gatti sterilizzati adulti. Controllo del peso e salute urinaria.",
+      "prezzo": 32.90,
+      "brand": "Royal Canin",
+      "peso": "4 kg",
+      "premium": true
+    },
+    {
+      "id": 7,
+      "categoria": "cibo-gatti",
+      "nome": "Farmina N&D Gatto Pollo 1.5kg",
+      "descrizione": "Alimento grain free con pollo fresco per gatti adulti. Formula senza cereali.",
+      "prezzo": 19.90,
+      "brand": "Farmina",
+      "peso": "1.5 kg",
+      "premium": true
+    },
+    {
+      "id": 8,
+      "categoria": "cibo-gatti",
+      "nome": "Sheba Selection Buste 12x85g",
+      "descrizione": "Selezione di paté in bustine con pollo, tonno e salmone. Per gatti adulti esigenti.",
+      "prezzo": 12.50,
+      "brand": "Sheba",
+      "peso": "12 x 85g",
+      "premium": false
+    },
+    {
+      "id": 9,
+      "categoria": "cibo-gatti",
+      "nome": "Hill's Sensitive Stomach 1.5kg",
+      "descrizione": "Formula digestiva per gatti con stomaco sensibile. Con pollo e riso facilmente digeribili.",
+      "prezzo": 24.90,
+      "brand": "Hill's",
+      "peso": "1.5 kg",
+      "premium": true
+    },
+    {
+      "id": 10,
+      "categoria": "cibo-gatti",
+      "nome": "Dreamies Snack al Formaggio 60g",
+      "descrizione": "Croccantini al formaggio irresistibili per gatti. Perfetti come premio durante il gioco.",
+      "prezzo": 5.20,
+      "brand": "Dreamies",
+      "peso": "60 g",
+      "premium": false
+    },
+    {
+      "id": 11,
+      "categoria": "accessori",
+      "nome": "Guinzaglio retrattile 5m Flexi",
+      "descrizione": "Guinzaglio retrattile in nylon con freno ergonomico. Portata massima 25 kg.",
+      "prezzo": 28.90,
+      "brand": "Flexi",
+      "peso": null,
+      "premium": false
+    },
+    {
+      "id": 12,
+      "categoria": "accessori",
+      "nome": "Cuccia ortopedica Memory Foam L",
+      "descrizione": "Cuccia con materasso memory foam per cani di taglia grande. Lavabile in lavatrice.",
+      "prezzo": 89.90,
+      "brand": "PawNap",
+      "peso": null,
+      "premium": true
+    },
+    {
+      "id": 13,
+      "categoria": "accessori",
+      "nome": "Gioco Corda Intrecciata Cane",
+      "descrizione": "Corda intrecciata in cotone naturale per tiro alla fune e pulizia dentale interattiva.",
+      "prezzo": 7.90,
+      "brand": "Kong",
+      "peso": null,
+      "premium": false
+    },
+    {
+      "id": 14,
+      "categoria": "accessori",
+      "nome": "Trasportino Aviator M",
+      "descrizione": "Trasportino IATA omologato per voli aerei. Ventilazione su 4 lati, serratura sicura.",
+      "prezzo": 65.00,
+      "brand": "Ferplast",
+      "peso": null,
+      "premium": false
+    },
+    {
+      "id": 15,
+      "categoria": "accessori",
+      "nome": "Tiragraffi Albero Gatto 120cm",
+      "descrizione": "Tiragraffi con più piattaforme, amache e corde. Sisal naturale resistente.",
+      "prezzo": 54.90,
+      "brand": "Armarkat",
+      "peso": null,
+      "premium": false
+    },
+    {
+      "id": 16,
+      "categoria": "accessori",
+      "nome": "Ciotola acciaio antiscivolo L",
+      "descrizione": "Ciotola in acciaio inox con base in gomma antiscivolo. Lavastoviglie compatibile.",
+      "prezzo": 12.90,
+      "brand": "BauChef",
+      "peso": null,
+      "premium": false
+    },
+    {
+      "id": 17,
+      "categoria": "antiparassitari",
+      "nome": "Frontline Spot-On Cane M 3 pip.",
+      "descrizione": "Trattamento antipulci e antizecche per cani 10-20 kg. 3 pipette mensili.",
+      "prezzo": 26.90,
+      "brand": "Frontline",
+      "peso": null,
+      "premium": false
+    },
+    {
+      "id": 18,
+      "categoria": "antiparassitari",
+      "nome": "Advantage Gatto 4-8kg 4 pip.",
+      "descrizione": "Trattamento antipulci per gatti da 4 a 8 kg. 4 pipette mensili a lunga durata.",
+      "prezzo": 24.50,
+      "brand": "Advantage",
+      "peso": null,
+      "premium": false
+    },
+    {
+      "id": 19,
+      "categoria": "antiparassitari",
+      "nome": "Collare Seresto Cane Grande",
+      "descrizione": "Collare antiparassitario con protezione antipulci e antizecche fino a 8 mesi.",
+      "prezzo": 38.90,
+      "brand": "Seresto",
+      "peso": null,
+      "premium": true
+    },
+    {
+      "id": 20,
+      "categoria": "antiparassitari",
+      "nome": "Multivitaminico Cane Senior 60 cpr",
+      "descrizione": "Integratore multivitaminico per cani senior over 7 anni. Con glucosammina per le articolazioni.",
+      "prezzo": 18.90,
+      "brand": "VetComplex",
+      "peso": null,
+      "premium": false
+    }
+  ]
+}

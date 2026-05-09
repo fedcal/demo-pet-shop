@@ -1,0 +1,54 @@
+{
+  "servizi": [
+    {
+      "id": "toelettatura",
+      "nome": "Toelettatura professionale",
+      "icona": "✂️",
+      "descrizione": "Bagno, asciugatura, taglio personalizzato e cura del manto per cani e gatti. Ogni trattamento è su prenotazione con toelettatore certificato.",
+      "tariffe": [
+        { "voce": "Cane taglia piccola (fino a 8 kg)", "prezzo": 25 },
+        { "voce": "Cane taglia media (8–20 kg)", "prezzo": 40 },
+        { "voce": "Cane taglia grande (oltre 20 kg)", "prezzo": 55 },
+        { "voce": "Gatto (pelo corto)", "prezzo": 30 },
+        { "voce": "Gatto (pelo lungo)", "prezzo": 45 },
+        { "voce": "Taglio unghie (solo)", "prezzo": 10 },
+        { "voce": "Pulizia orecchie (solo)", "prezzo": 8 },
+        { "voce": "Profumo e fiocchetto", "prezzo": 5 }
+      ],
+      "durata": "60–120 min in base alla taglia",
+      "note": "Prenotazione obbligatoria. Il cane/gatto deve essere vaccinato (libretto sanitario richiesto)."
+    },
+    {
+      "id": "dog-sitting",
+      "nome": "Dog Sitting & Cat Sitting",
+      "icona": "🏠",
+      "descrizione": "Custodia del tuo animale presso la nostra struttura o a domicilio. Personale qualificato con esperienza in comportamento animale.",
+      "tariffe": [
+        { "voce": "Dog sitting 1h (struttura)", "prezzo": 15 },
+        { "voce": "Dog sitting mezza giornata (4h)", "prezzo": 40 },
+        { "voce": "Dog sitting giornata intera (8h)", "prezzo": 65 },
+        { "voce": "Cat sitting 1h (struttura)", "prezzo": 10 },
+        { "voce": "Cat sitting giornata intera", "prezzo": 45 },
+        { "voce": "Visita domiciliare cane (1h)", "prezzo": 20 },
+        { "voce": "Visita domiciliare gatto (30min)", "prezzo": 12 }
+      ],
+      "durata": "Da 1h a intera giornata",
+      "note": "Il sitting in struttura è disponibile lun-sab 8:00–20:00. Le visite domiciliari richiedono sopralluogo preventivo."
+    },
+    {
+      "id": "addestramento",
+      "nome": "Addestramento cinofilo",
+      "icona": "🎓",
+      "descrizione": "Lezioni individuali e corsi di gruppo con dog trainer certificato ENCI. Dall'educazione base ai comportamenti avanzati.",
+      "tariffe": [
+        { "voce": "Lezione individuale 1h", "prezzo": 30 },
+        { "voce": "Pacchetto 5 lezioni individuali", "prezzo": 130 },
+        { "voce": "Pacchetto 10 lezioni individuali", "prezzo": 240 },
+        { "voce": "Corso di gruppo (6 lezioni)", "prezzo": 120 },
+        { "voce": "Consulenza comportamentale (90min)", "prezzo": 50 }
+      ],
+      "durata": "1h per lezione individuale, 90min per corsi di gruppo",
+      "note": "I corsi di gruppo si tengono ogni sabato mattina. Il cane deve avere almeno 3 mesi e vaccini aggiornati."
+    }
+  ]
+}

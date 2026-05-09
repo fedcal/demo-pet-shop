@@ -1,0 +1,24 @@
+{
+  "faq": [
+    {
+      "domanda": "Quale cibo scegliere per un cucciolo?",
+      "risposta": "Per i cuccioli consigliamo alimenti formulati appositamente per la loro fase di crescita: ricchi di proteine animali, DHA per lo sviluppo neurologico e calcio bilanciato. Le linee puppy di Royal Canin e Hill's sono tra le più raccomandate dai veterinari. Evitate alimenti per adulti fino al compimento dell'anno (2 anni per razze giganti). Venite in negozio per una consulenza nutrizionale gratuita."
+    },
+    {
+      "domanda": "Il mio cane/gatto deve avere il microchip?",
+      "risposta": "In Italia il microchip è obbligatorio per legge per tutti i cani entro il 60° giorno di vita (D.Lgs. 529/1992). Per i gatti non è ancora obbligatorio a livello nazionale, ma molte Regioni lo raccomandano. Il microchip va applicato da un veterinario abilitato e registrato all'anagrafe canina. Non vendiamo microchip, ma possiamo indirizzarvi al veterinario convenzionato più vicino."
+    },
+    {
+      "domanda": "Posso portare il mio animale in aereo?",
+      "risposta": "Sì, ma con alcune regole. Gli animali di piccola taglia (max 8 kg incluso contenitore) possono viaggiare in cabina su molte compagnie. Per animali più grandi è necessario il trasporto in stiva in trasportini omologati IATA. Vendiamo trasportini certificati per il viaggio aereo. Ricordate anche il passaporto europeo per gli animali domestici (rilasciato dal veterinario) con vaccinazioni aggiornate e microchip."
+    },
+    {
+      "domanda": "Come riconosco un'allergia alimentare nel mio animale?",
+      "risposta": "I segnali principali di allergia alimentare sono: prurito persistente (soprattutto zampe, orecchie, zona inguinale), disturbi gastrointestinali ricorrenti (vomito, diarrea), perdita di pelo o pelle arrossata. Se noti questi sintomi, consulta il veterinario prima di cambiare dieta. Noi proponiamo linee alimentari ipoallergeniche e grain-free, ma la diagnosi definitiva spetta al medico veterinario."
+    },
+    {
+      "domanda": "Accettate animali esotici per la toelettatura?",
+      "risposta": "La nostra toelettatura è specializzata in cani e gatti. Per animali esotici (conigli, criceti, furetti, uccelli) offriamo solo taglio unghie e piccoli interventi estetici su appuntamento. Per procedure più complesse su esotici vi indirizziamo a strutture veterinarie specializzate. Contattateci per verificare la disponibilità."
+    }
+  ]
+}
